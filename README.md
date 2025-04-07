@@ -4,6 +4,12 @@ This is a minimal React Typescript Playground to do Experiments
 
 This template provides a setup to get React working in Vite with HMR and some ESLint rules.
 
+The template is created using the command:
+
+```js
+npm create vite@latest my-app -- --template react-ts
+```
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh

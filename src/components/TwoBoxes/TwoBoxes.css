@@ -1,0 +1,7 @@
+.two-boxes-container {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+  border: 2px solid #017fba;
+  min-height: 80vh;
+}

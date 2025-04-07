@@ -1,10 +1,10 @@
 import './App.css';
-import StopWatch from './components/StopWatch';
+import TwoBoxes from './components/TwoBoxes';
 
 function App() {
   return (
     <div>
-      <StopWatch />
+      <TwoBoxes />
     </div>
   );
 }
